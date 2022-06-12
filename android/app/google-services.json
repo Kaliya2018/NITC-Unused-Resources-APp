@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45736163534",
+    "project_id": "nitc-unused-resources-21ef1",
+    "storage_bucket": "nitc-unused-resources-21ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45736163534:android:759acf4671f5ba46d8789f",
+        "android_client_info": {
+          "package_name": "com.kaliyadalei.nitc_unused_resources_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45736163534-upg6dgfr8h7noose1hqceqn107ohccmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB53jlMoT9XX74oMTnQaOnkwmVFdxKOpP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45736163534-upg6dgfr8h7noose1hqceqn107ohccmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
